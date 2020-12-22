@@ -7,7 +7,7 @@ A Terraform module to create Equinix Fabric layer 2 connection between:
 
 and Amazon Web Services using AWS Direct Connect hosted connection.
 
-![Terraform status](https://github.com/mikouaj/terraform-equinix-fabric-aws/workflows/Terraform/badge.svg)
+![Terraform status](https://github.com/equinix/terraform-equinix-fabric-aws/workflows/Terraform/badge.svg)
 ![License](https://img.shields.io/github/license/equinix/terraform-equinix-fabric-aws)
 
 ---
