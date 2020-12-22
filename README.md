@@ -11,7 +11,7 @@ and Amazon Web Services using AWS Direct Connect hosted connection.
 
 | Name | Version |
 |------|---------|
-| terraform | >= 0.12.0 |
+| terraform | >= 0.13 |
 | equinix | >= 1.0.0 |
 
 ## Providers
@@ -51,8 +51,6 @@ page](https://aws.amazon.com/directconnect/features) for details about possible
 values of `aws_metro_code` and `aws_region` arguments.
 
 ## Outputs
-
-## AWS Direct Connect Locations
 
 | Name | Description |
 |------|-------------|
